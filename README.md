@@ -1,1 +1,1 @@
-# Portalacorn
+# Portalacorn - 16 year business professional with MIS degree, looking to getting into software development.  Need to refresh on latest technologies and programming languages.  Step 1, complete PC Programming certificate at local technical college.  Step 2, gain experience through github.  Step 3, develop portfolio.  Step 4, get a new job!
